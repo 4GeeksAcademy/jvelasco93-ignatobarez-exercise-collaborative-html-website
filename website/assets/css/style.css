@@ -1,0 +1,10 @@
+#hero-content {
+  background-image: url(/website/assets/img/bg.jpg);
+  background-size: cover;
+  background-position: center bottom;
+  background-repeat: no-repeat;
+}
+.hero-section {
+  padding-right: 0;
+  padding-left: 0;
+}
